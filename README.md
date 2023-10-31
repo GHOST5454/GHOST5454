@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sachin Ghunawat
 - 👀 I’m interested in AI and DeepLearning.
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Ai related projects.
 - 📫 How to reach me by email { Sachinmeena550@gmail.com }
 
 <!---
